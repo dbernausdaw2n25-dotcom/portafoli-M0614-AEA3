@@ -1,0 +1,4 @@
+nano .styleintrc.json
+{
+  "extends": "stylelint-config-standard"
+}
